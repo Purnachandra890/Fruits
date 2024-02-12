@@ -1,0 +1,13 @@
+.cards{
+    display: flex;
+}
+.fruit{
+    margin-right: 30px;
+}
+input{
+    width: 40%;
+}
+.nutrient-icon{
+    width: 30px;
+    height: 30px;
+}
